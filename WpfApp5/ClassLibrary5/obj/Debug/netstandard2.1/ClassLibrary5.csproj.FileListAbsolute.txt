@@ -1,0 +1,10 @@
+D:\Progect\WpfApp5\ClassLibrary5\bin\Debug\netstandard2.1\ClassLibrary5.deps.json
+D:\Progect\WpfApp5\ClassLibrary5\bin\Debug\netstandard2.1\ClassLibrary5.dll
+D:\Progect\WpfApp5\ClassLibrary5\bin\Debug\netstandard2.1\ClassLibrary5.pdb
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.csproj.AssemblyReference.cache
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.AssemblyInfoInputs.cache
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.AssemblyInfo.cs
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.csproj.CoreCompileInputs.cache
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.dll
+D:\Progect\WpfApp5\ClassLibrary5\obj\Debug\netstandard2.1\ClassLibrary5.pdb
